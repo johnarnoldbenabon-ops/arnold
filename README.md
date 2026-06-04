@@ -1,1 +1,1 @@
-# arnold
+he Student Management Dashboard is a responsive web system for handling student records and grades. It supports adding, editing, and deleting students, GPA computation, honor student tagging, and search/filter features. Built with HTML, CSS, and JavaScript, it applies OOP pillars through Person, Student, HonorStudent, and StudentManager classes.
